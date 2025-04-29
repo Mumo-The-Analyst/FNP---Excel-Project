@@ -24,7 +24,7 @@ The datasets contained three files:
 - **Order Quantity vs. Delivery Time (implicit in slicer layout):** Investigate how volume affects delivery performance.
 
 ## Dashboard Preview
-![Dashboard Preview](
+![Dashboard Preview](https://github.com/Mumo-The-Analyst/FNP---Excel-Project/blob/main/FernsandPetals(FNP).png)
 ## Key Insights
 1. Total Revenue: $42,421.49 generated from 1,000 orders — with an average customer spend of $42.42
 2. Order to Delivery Time: Orders were fulfilled in an average of 5.53 days
